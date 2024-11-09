@@ -15,10 +15,10 @@ namespace PotionType {
 		return a ^ b;
 	}
 	void operator += (uint8_t& a, Type const& b) {
-		a |= b;
+		a = a | b;
 	}
 
 	void operator -= (uint8_t& a, Type const& b) {
-		a ^= b;
+		a = a ^ b;
 	}
 }
