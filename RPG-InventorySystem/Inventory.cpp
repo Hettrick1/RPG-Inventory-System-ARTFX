@@ -20,3 +20,7 @@ Item* Inventory::GetItem(unsigned int itemIndex)
 {
     return nullptr;
 }
+
+void Inventory::SortInventory(uint8_t itemTag)
+{
+}

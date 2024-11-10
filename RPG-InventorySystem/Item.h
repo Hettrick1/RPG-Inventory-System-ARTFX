@@ -9,7 +9,8 @@ class Item
 public:
 	Item(std::uint8_t t, int p, std::string n);
 	~Item();
-	virtual std::uint8_t GetType() = 0;
+	std::uint8_t GetType();
+	virtual void Sell() = 0;
 protected:
 	std::string mName;
 	std::uint8_t mType;
