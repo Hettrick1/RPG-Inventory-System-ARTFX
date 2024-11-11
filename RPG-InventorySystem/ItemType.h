@@ -5,7 +5,10 @@ namespace ItemType {
 		 Wood		= 1<<0, 
 		 Stone		= 1<<1,
 		 Food		= 1<<2,
-		 Water		= 1<<3,
+		 Cooked		= 1<<3,
+		 Common		= 1<<4,
+		 Rare		= 1<<5,
+		 Epic		= 1<<6
 	};
 
 	uint8_t operator + (uint8_t const& a, Type const& b) {

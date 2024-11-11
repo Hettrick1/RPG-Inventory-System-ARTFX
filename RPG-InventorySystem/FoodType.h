@@ -5,8 +5,8 @@ namespace FoodType {
 		Vegetable	= 1 << 0,
 		Mushroom	= 1 << 1,
 		Meat		= 1 << 2,
-		Raw			= 1 << 3,
-		Cooked		= 1 << 4
+		Herb		= 1 << 3,
+		Water		= 1 << 4
 	};
 
 	uint8_t operator + (uint8_t const& a, Type const& b) {
