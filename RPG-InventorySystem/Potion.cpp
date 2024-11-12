@@ -10,3 +10,7 @@ Potion::Potion(std::uint8_t itemType, int price, std::string name, std::uint8_t 
 Potion::~Potion()
 {
 }
+
+void Potion::Sell()
+{
+}

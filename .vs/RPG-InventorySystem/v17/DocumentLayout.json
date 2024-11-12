@@ -7,60 +7,16 @@
       "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\FoodProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\PotionType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\PotionType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\FoodType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\IFlammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\IFlammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBA1118E-8F21-481D-8240-BFA05F8893E1}|RPG-InventorySystem\\RPG-InventorySystem.vcxproj|solutionrelative:RPG-InventorySystem\\FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FoodType.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodType.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\FoodType.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodType.h",
-              "RelativeToolTip": "RPG-InventorySystem\\FoodType.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Title": "FoodProcessor.h",
+              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodProcessor.h",
+              "RelativeDocumentMoniker": "RPG-InventorySystem\\FoodProcessor.h",
+              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodProcessor.h",
+              "RelativeToolTip": "RPG-InventorySystem\\FoodProcessor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-12T12:10:47.647Z",
+              "WhenOpened": "2024-11-12T15:14:33.921Z",
               "EditorCaption": ""
             },
             {
@@ -93,7 +49,7 @@
               "RelativeDocumentMoniker": "RPG-InventorySystem\\FoodProcessor.cpp",
               "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\FoodProcessor.cpp",
               "RelativeToolTip": "RPG-InventorySystem\\FoodProcessor.cpp",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-12T09:54:15.815Z",
               "EditorCaption": ""
@@ -101,172 +57,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PotionType.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\PotionType.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\PotionType.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\PotionType.h",
-              "RelativeToolTip": "RPG-InventorySystem\\PotionType.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T14:07:22.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemType.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\ItemType.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\ItemType.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\ItemType.h",
-              "RelativeToolTip": "RPG-InventorySystem\\ItemType.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T13:51:37.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Material.cpp",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.cpp",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\Material.cpp",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.cpp",
-              "RelativeToolTip": "RPG-InventorySystem\\Material.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T13:33:52.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Material.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\Material.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Material.h",
-              "RelativeToolTip": "RPG-InventorySystem\\Material.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T13:33:50.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.cpp",
               "RelativeDocumentMoniker": "RPG-InventorySystem\\Potion.cpp",
               "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.cpp",
               "RelativeToolTip": "RPG-InventorySystem\\Potion.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T13:04:09.805Z"
+              "WhenOpened": "2024-10-21T13:04:09.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Armor.cpp",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.cpp",
-              "ToolTip": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.cpp",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T13:02:43.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Weapon.cpp",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.cpp",
-              "ToolTip": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.cpp",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T12:31:20.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.h",
               "RelativeDocumentMoniker": "RPG-InventorySystem\\Potion.h",
               "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Potion.h",
               "RelativeToolTip": "RPG-InventorySystem\\Potion.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T12:02:12.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Armor.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.h",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Armor.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T12:01:26.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Weapon.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.h",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RPG-InventorySystem\\RPG-InventorySystem\\Weapon.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T12:01:17.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IFlammable.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\IFlammable.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\IFlammable.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\IFlammable.h",
-              "RelativeToolTip": "RPG-InventorySystem\\IFlammable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T11:53:53.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.h",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\Item.h",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.h",
-              "RelativeToolTip": "RPG-InventorySystem\\Item.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T11:44:25.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Item.cpp",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.cpp",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\Item.cpp",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Item.cpp",
-              "RelativeToolTip": "RPG-InventorySystem\\Item.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T13:02:11.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Main.cpp",
-              "RelativeDocumentMoniker": "RPG-InventorySystem\\Main.cpp",
-              "ToolTip": "C:\\Users\\evann.jacquot\\Documents\\GitHub\\RPG-Inventory-System-ARTFX\\RPG-InventorySystem\\Main.cpp",
-              "RelativeToolTip": "RPG-InventorySystem\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T11:42:01.379Z"
+              "WhenOpened": "2024-10-21T12:02:12.841Z",
+              "EditorCaption": ""
             }
           ]
         }

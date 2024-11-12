@@ -20,7 +20,7 @@ Item* FoodProcessor::CookItem()
             Material* mat = new Material(ItemType::Wood, 0, 150, "Planks");
             return mat;
         default:
-            std::cout << "Sorry, you can't craft anything with this !" << std::endl << "Try to add more things !" << std::endl;
+            std::cout << "Sorry, you can't craft anything with this !" << std::endl << "Try to add different things !" << std::endl;
             break;
         }
     }
@@ -41,31 +41,39 @@ Item* FoodProcessor::CookItem()
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Herb + FoodType::Water)) {
-            
+            Potion* pot = new Potion(ItemType::Food + ItemType::Common, 150, "Regen", PotionType::HealthRegen);
+            mActualRecipie = 0;
+            return pot;
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Mushroom)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs"); 
+            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Rare, mActualRecipie, 1000, "Vegetables with herbs"); 
             mActualRecipie = 0;
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Meat)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs"); 
+            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Rare, mActualRecipie, 1000, "Vegetables with herbs");
             mActualRecipie = 0;
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Water)) {
-
+            Potion* pot = new Potion(ItemType::Food + ItemType::Common, 150, "Fire Resistance", PotionType::FireResistance); 
+            mActualRecipie = 0;
+            return pot;
         }
         else if (mActualRecipie == (FoodType::Mushroom + FoodType::Meat)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs"); 
+            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Epic, mActualRecipie, 1500, "Vegetables with herbs"); 
             mActualRecipie = 0;
             return mat;
         }
         else if (mActualRecipie == (FoodType::Mushroom + FoodType::Water)) {
-
+            Potion* pot = new Potion(ItemType::Food + ItemType::Rare, 150, "Night Vision", PotionType::NightVision); 
+            mActualRecipie = 0;
+            return pot;
         }
         else {
-
+            Material* mat = new Material(ItemType::Common, 0, 1, "Garbage");
+            mActualRecipie = 0;
+            return mat; 
         }
     }
     else {
@@ -87,12 +95,22 @@ void FoodProcessor::AddItemToPot(Material* itemToAdd)
             }
             break;
         case ItemType::Stone:
-            mPot.push_back(itemToAdd);
-            mCanAddToPot = false;
+            if (mPot.size() < 1) {
+                mPot.push_back(itemToAdd);
+                mCanAddToPot = false;
+            }
+            else {
+                std::cout << "You can't this to the pot !" << std::endl;
+            }
             break;
         case ItemType::Wood:
-            mPot.push_back(itemToAdd);
-            mCanAddToPot = false;
+            if (mPot.size() < 1) {
+                mPot.push_back(itemToAdd);
+                mCanAddToPot = false;
+            }
+            else {
+                std::cout << "You can't this to the pot !" << std::endl;
+            }
             break;
         default : 
             std::cout << "You can't this to the pot !" << std::endl;

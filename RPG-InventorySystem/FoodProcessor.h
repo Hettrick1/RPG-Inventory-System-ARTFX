@@ -2,7 +2,7 @@
 #include <vector>
 #include "Item.h"
 #include "Material.h"
-#include "FoodType.h"
+#include "Potion.h"
 class FoodProcessor
 {
 public :
