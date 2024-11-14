@@ -14,7 +14,7 @@ void Inventory::Init() // for debug purposes
 {
     Material* mat = new Material(ItemType::Food + ItemType::Cooked, 0, 500, "Vegetables");
     AddItem(mat);
-    Potion* pot2 = new Potion(ItemType::Food, 500, "with2", PotionType::FireResistance);
+    Potion* pot2 = new Potion(ItemType::Food + ItemType::Epic, 500, "with2", PotionType::FireResistance);
     AddItem(pot2);
     Material* mat2 = new Material(ItemType::Stone, 0, 500, "Vegetables with herbs");
     AddItem(mat2);
@@ -32,6 +32,7 @@ void Inventory::Init() // for debug purposes
     PrintInventory();
     AddItemToPot(4);
     mCraftingTable->PrintPot();
+    std::cout << std::endl << GetItem(0)->HasTag(ItemType::Food) << std::endl;
 }
 
 // add an item and directly sort regarding the type of the item. 

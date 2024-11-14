@@ -10,6 +10,7 @@ public:
 	std::uint8_t GetType();
 	std::string GetName();
 	virtual int Sell() = 0;
+	bool HasTag(std::uint8_t tag);
 protected:
 	std::string mName;
 	std::uint8_t mType;

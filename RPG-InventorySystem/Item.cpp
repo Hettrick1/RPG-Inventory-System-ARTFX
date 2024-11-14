@@ -20,3 +20,8 @@ std::string Item::GetName()
 {
     return mName;
 }
+
+bool Item::HasTag(std::uint8_t tag)
+{
+    return (mType & tag) != 0;
+}
