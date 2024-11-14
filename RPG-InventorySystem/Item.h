@@ -9,7 +9,7 @@ public:
 	~Item();
 	std::uint8_t GetType();
 	std::string GetName();
-	virtual void Sell() = 0;
+	virtual int Sell() = 0;
 protected:
 	std::string mName;
 	std::uint8_t mType;
