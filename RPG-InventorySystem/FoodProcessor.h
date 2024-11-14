@@ -13,7 +13,7 @@ public :
 	~FoodProcessor();
 	Item* CookItem();
 	void AddItemToPot(Material* itemToAdd);
-	void RemoveElementToPot(int index);
+	void PrintPot();
 
 private :
 	std::vector<Material*> mPot;
