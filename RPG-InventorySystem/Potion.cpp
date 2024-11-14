@@ -11,6 +11,8 @@ Potion::~Potion()
 {
 }
 
-void Potion::Sell()
+int Potion::Sell()
 {
+	std::cout << std::endl << "You just sold a potion for : " << mPrice << " dollars!" << std::endl << std::endl;
+	return mPrice;
 }

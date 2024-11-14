@@ -18,8 +18,15 @@ void Material::Burn()
 {
 }
 
-void Material::Sell()
+int Material::Sell()
 {
+	std::cout << std::endl << "You just sold a material for : " << mPrice << " dollars!" << std::endl << std::endl;
+	return mPrice;
+}
+
+bool Material::canCraft()
+{
+	return true;
 }
 
 
