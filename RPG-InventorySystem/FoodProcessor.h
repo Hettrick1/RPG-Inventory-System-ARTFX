@@ -3,6 +3,9 @@
 #include "Item.h"
 #include "Material.h"
 #include "Potion.h"
+
+class Material;
+
 class FoodProcessor
 {
 public :

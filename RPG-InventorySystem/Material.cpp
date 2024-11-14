@@ -14,5 +14,13 @@ uint8_t Material::GetFoodType()
 	return mFoodType;
 }
 
+void Material::Burn()
+{
+}
+
+void Material::Sell()
+{
+}
+
 
 
