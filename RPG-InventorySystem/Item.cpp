@@ -15,3 +15,8 @@ std::uint8_t Item::GetType()
 {
     return mType;
 }
+
+std::string Item::GetName()
+{
+    return mName;
+}

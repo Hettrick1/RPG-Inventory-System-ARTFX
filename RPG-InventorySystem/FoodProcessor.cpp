@@ -2,6 +2,8 @@
 
 FoodProcessor::FoodProcessor()
 {
+    mActualRecipie = 0;
+    mCanAddToPot = true;
 }
 
 FoodProcessor::~FoodProcessor()
@@ -10,14 +12,16 @@ FoodProcessor::~FoodProcessor()
 
 Item* FoodProcessor::CookItem()
 {
+    Material* mat;
+    Potion* pot;
     if (mPot.size() == 1) {
         switch (mPot[0]->GetType())
         {
         case ItemType::Stone:
-            Material* mat = new Material(ItemType::Stone, 0, 100, "Gravel");
+            mat = new Material(ItemType::Stone, 0, 100, "Gravel");
             return mat;
         case ItemType::Wood:
-            Material* mat = new Material(ItemType::Wood, 0, 150, "Planks");
+            mat = new Material(ItemType::Wood, 0, 150, "Planks");
             return mat;
         default:
             std::cout << "Sorry, you can't craft anything with this !" << std::endl << "Try to add different things !" << std::endl;
@@ -26,52 +30,52 @@ Item* FoodProcessor::CookItem()
     }
     else if (mPot.size() == 2) { // logique de recettes
         if (mActualRecipie == (FoodType::Herb + FoodType::Vegetable)) { 
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs");
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 500, "Vegetables with herbs");
             mActualRecipie = 0;
             return mat;
         }
         else if (mActualRecipie == (FoodType::Herb + FoodType::Mushroom)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs"); 
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 500, "Vegetables with herbs"); 
             mActualRecipie = 0;
             return mat;
         }
         else if (mActualRecipie == (FoodType::Herb + FoodType::Meat)) { 
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Common, mActualRecipie, 500, "Vegetables with herbs"); 
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 500, "Vegetables with herbs"); 
             mActualRecipie = 0; 
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Herb + FoodType::Water)) {
-            Potion* pot = new Potion(ItemType::Food + ItemType::Common, 150, "Regen", PotionType::HealthRegen);
+            pot = new Potion(ItemType::Food, 150, "Regen", PotionType::HealthRegen);
             mActualRecipie = 0;
             return pot;
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Mushroom)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Rare, mActualRecipie, 1000, "Vegetables with herbs"); 
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 1000, "Vegetables with herbs"); 
             mActualRecipie = 0;
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Meat)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Rare, mActualRecipie, 1000, "Vegetables with herbs");
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 1000, "Vegetables with herbs");
             mActualRecipie = 0;
             return mat; 
         }
         else if (mActualRecipie == (FoodType::Vegetable + FoodType::Water)) {
-            Potion* pot = new Potion(ItemType::Food + ItemType::Common, 150, "Fire Resistance", PotionType::FireResistance); 
+            pot = new Potion(ItemType::Food, 150, "Fire Resistance", PotionType::FireResistance); 
             mActualRecipie = 0;
             return pot;
         }
         else if (mActualRecipie == (FoodType::Mushroom + FoodType::Meat)) {
-            Material* mat = new Material(ItemType::Food + ItemType::Cooked + ItemType::Epic, mActualRecipie, 1500, "Vegetables with herbs"); 
+            mat = new Material(ItemType::Food + ItemType::Cooked, mActualRecipie, 1500, "Vegetables with herbs"); 
             mActualRecipie = 0;
             return mat;
         }
         else if (mActualRecipie == (FoodType::Mushroom + FoodType::Water)) {
-            Potion* pot = new Potion(ItemType::Food + ItemType::Rare, 150, "Night Vision", PotionType::NightVision); 
+            pot = new Potion(ItemType::Food, 150, "Night Vision", PotionType::NightVision); 
             mActualRecipie = 0;
             return pot;
         }
         else {
-            Material* mat = new Material(ItemType::Common, 0, 1, "Garbage");
+            mat = new Material(ItemType::Common, 0, 1, "Garbage");
             mActualRecipie = 0;
             return mat; 
         }

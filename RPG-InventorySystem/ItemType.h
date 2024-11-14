@@ -1,5 +1,7 @@
 #pragma once
 
+using namespace std;
+
 namespace ItemType { 
 	enum Type {
 		 Wood		= 1<<0, 
